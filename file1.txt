@@ -1,1 +1,0 @@
-file 1 to learn about  rm command  removing both staging and working directory
