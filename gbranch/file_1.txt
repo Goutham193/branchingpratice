@@ -1,1 +1,2 @@
 hi am file 1
+editing from git hub 
